@@ -14,7 +14,7 @@ Este é um sistema simples de gerenciamento de biblioteca desenvolvido em Python
 ## Reservas de Livros
 Reservar livro: Registre a reserva de um livro por um cliente, especificando a data de retirada e devolução.
 
-##Tecnologias Utilizadas
+## Tecnologias Utilizadas
 Python: Linguagem de programação utilizada para desenvolver o sistema.
 
 ## Pré-requisitos
