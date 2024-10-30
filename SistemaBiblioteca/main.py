@@ -199,8 +199,8 @@ def reservar_livro():
                                 'cliente_que_reservou': nome_do_cliente_que_vai_reservar,
                                 'cpf_do_cliente_que_reservou': cpf_do_cliente_que_vai_reservar_o_livro,
                                 'livro_reservado': livro_que_sera_reservado,
-                                'data_reservada': data_reservada,  # Armazena como datetime
-                                'data_devolucao': data_devolucao  # Armazena como datetime
+                                'data_reservada': data_reservada,  
+                                'data_devolucao': data_devolucao 
                             }
 
                             biblioteca[livro_que_sera_reservado]['quantidade'] -= 1
