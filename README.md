@@ -26,4 +26,4 @@ O sistema é composto pelas seguintes funções principais:
 
 1. Clone o repositório:
    ```bash
-   git clone https://github.com/usuario/repositorio.git
+   git clone https://github.com/usuario/Sistema-de-Controle-Biblioteca.git
